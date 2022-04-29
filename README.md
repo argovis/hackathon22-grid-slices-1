@@ -1,4 +1,4 @@
-# Argovis Hackathon 2022 - Argo & GO-SHIP Group
+# Argovis Hackathon 2022 - Slices of Gridded Products (group 1)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/argovis/hackathon22-grid-slices-1/HEAD)
 
